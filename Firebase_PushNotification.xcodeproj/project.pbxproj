@@ -16,6 +16,7 @@
 		3B2166211FCBADDE00D7BD1A /* Firebase_PushNotificationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B2166201FCBADDE00D7BD1A /* Firebase_PushNotificationTests.swift */; };
 		3B21662C1FCBADDE00D7BD1A /* Firebase_PushNotificationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B21662B1FCBADDE00D7BD1A /* Firebase_PushNotificationUITests.swift */; };
 		3B25CA8A1FCD11C9006328D7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3B25CA891FCD11C9006328D7 /* GoogleService-Info.plist */; };
+		3B25CA8C1FCD129E006328D7 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 3B25CA8B1FCD129E006328D7 /* README.md */; };
 		4708518A3AD9CC9569220804 /* Pods_Firebase_PushNotificationTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB2918F3EB73FA518258147A /* Pods_Firebase_PushNotificationTests.framework */; };
 		FA131E5E6D3F2BA67E9C7346 /* Pods_Firebase_PushNotificationUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E74ECF44B7EDBFF6EC433747 /* Pods_Firebase_PushNotificationUITests.framework */; };
 /* End PBXBuildFile section */
@@ -54,6 +55,7 @@
 		3B21662B1FCBADDE00D7BD1A /* Firebase_PushNotificationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Firebase_PushNotificationUITests.swift; sourceTree = "<group>"; };
 		3B21662D1FCBADDE00D7BD1A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3B25CA891FCD11C9006328D7 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		3B25CA8B1FCD129E006328D7 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 		421FCED43955B5D68EBCBEAC /* Pods-Firebase_PushNotification.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Firebase_PushNotification.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Firebase_PushNotification/Pods-Firebase_PushNotification.debug.xcconfig"; sourceTree = "<group>"; };
 		42A2CE0B71E2A17D703267B5 /* Pods_Firebase_PushNotification.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Firebase_PushNotification.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4952051CDC69EC627035C8E2 /* Pods-Firebase_PushNotificationUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Firebase_PushNotificationUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-Firebase_PushNotificationUITests/Pods-Firebase_PushNotificationUITests.release.xcconfig"; sourceTree = "<group>"; };
@@ -129,6 +131,7 @@
 		3B21660A1FCBADDE00D7BD1A /* Firebase_PushNotification */ = {
 			isa = PBXGroup;
 			children = (
+				3B25CA8B1FCD129E006328D7 /* README.md */,
 				3B21660B1FCBADDE00D7BD1A /* AppDelegate.swift */,
 				3B21660D1FCBADDE00D7BD1A /* ViewController.swift */,
 				3B25CA891FCD11C9006328D7 /* GoogleService-Info.plist */,
@@ -286,6 +289,7 @@
 			files = (
 				3B2166161FCBADDE00D7BD1A /* LaunchScreen.storyboard in Resources */,
 				3B25CA8A1FCD11C9006328D7 /* GoogleService-Info.plist in Resources */,
+				3B25CA8C1FCD129E006328D7 /* README.md in Resources */,
 				3B2166131FCBADDE00D7BD1A /* Assets.xcassets in Resources */,
 				3B2166111FCBADDE00D7BD1A /* Main.storyboard in Resources */,
 			);

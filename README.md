@@ -1,4 +1,4 @@
-# firebase_pushnotification
+# firebase_pushnotification_swift
 
 Here I am going to explain step by step implementation for the Push Notification.
 
